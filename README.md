@@ -1,7 +1,7 @@
 # adagio/serializer
 
 [![Latest Stable Version](https://poser.pugx.org/adagio/serializer/version.svg)](https://packagist.org/packages/adagio/serializer)
-[![Build Status](https://secure.travis-ci.org/Adagio/serializer.svg)](http://travis-ci.org/Adagio/serializer)
+[![Build Status](https://secure.travis-ci.org/adagio/serializer.svg)](http://travis-ci.org/adagio/serializer)
 [![License](https://poser.pugx.org/adagio/serializer/license.svg)](https://packagist.org/packages/adagio/serializer)
 [![Downloads](https://poser.pugx.org/adagio/serializer/d/total.svg)](https://packagist.org/packages/adagio/serializer)
 
