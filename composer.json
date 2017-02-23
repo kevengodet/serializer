@@ -1,0 +1,23 @@
+{
+    "name": "adagio/serializer",
+    "description": "Simple zero-config (de)serialization API",
+    "license": "CC-BY-SA-4.0",
+    "authors": [
+        {
+            "name": "Keven",
+            "email": "keven@adagiolabs.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Adagio\\Serializer\\": "src"
+        }
+    },
+    "require": {
+        "php": "^7.0",
+        "netresearch/jsonmapper": "^1.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0"
+    }
+}
