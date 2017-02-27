@@ -1,9 +1,9 @@
 # adagio/serializer
 
-[![Latest Stable Version](https://poser.pugx.org/adagiolabs/serializer/version.svg)](https://packagist.org/packages/adagiolabs/serializer)
-[![Build Status](https://secure.travis-ci.org/adagio/serializer.svg)](http://travis-ci.org/adagiolabs/serializer)
-[![License](https://poser.pugx.org/adagio/serializer/license.svg)](https://packagist.org/packages/adagiolabs/serializer)
-[![Downloads](https://poser.pugx.org/adagio/serializer/d/total.svg)](https://packagist.org/packages/adagiolabs/serializer)
+[![Latest Stable Version](https://poser.pugx.org/adagio/serializer/v/stable)](https://packagist.org/packages/adagio/serializer)
+[![Build Status](https://travis-ci.org/adagiolabs/serializer.svg)](https://travis-ci.org/adagiolabs/serializer)
+[![License](https://poser.pugx.org/adagio/serializer/license)](https://packagist.org/packages/adagio/serializer)
+[![Total Downloads](https://poser.pugx.org/adagio/serializer/downloads)](https://packagist.org/packages/adagio/serializer)
 
 A PHP serializer that just works.
 
