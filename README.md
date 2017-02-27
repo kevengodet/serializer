@@ -12,7 +12,7 @@ A PHP serializer that just works.
 Install [Composer](https://getcomposer.org) and run the following command to get
 the latest version:
 
-```php
+```bash
 composer require adagio/serializer
 ```
 
